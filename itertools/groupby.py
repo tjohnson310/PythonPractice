@@ -15,4 +15,6 @@
 #   - group_iterator: An iterator yielding the elements belonging to that group. This iterator is consumed when you
 #   iterate over it (e.g. by converting it to a list).
 
+# Important Consideration: Sorting
+
 
